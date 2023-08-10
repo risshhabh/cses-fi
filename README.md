@@ -15,4 +15,5 @@ Solutions written in C++ and (sometimes) Python.
 - [Missing Number](https://cses.fi/problemset/task/1083)
 - [Repetitions](https://cses.fi/problemset/task/1069)
 - [Increasing Array](https://cses.fi/problemset/task/1094)
+- [Permutations](https://cses.fi/problemset/task/1070/)
 </details>
