@@ -1,12 +1,14 @@
 # https://cses.fi/problemset/task/1069
-# Slow implement
-
-import re
 
 sequence = input()
-A = max(re.split("T|C|G", sequence), key = len)
-T = max(re.split("A|C|G", sequence), key = len)
-C = max(re.split("T|A|G", sequence), key = len)
-G = max(re.split("T|C|A", sequence), key = len)
+longest = [0]
+last = sequence[0] 
 
-print(len(max(A, T, C, G, key = len)))
+for l in sequence:
+    if l == last:
+        longest[-1] += 1
+    else:
+        longest.append(1)
+    last = l
+
+print(max(longest))
