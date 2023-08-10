@@ -1,9 +1,5 @@
 Problems from <https://cses.fi/problemset>.<br>
-Solutions written in C++ and (sometimes) Python.
-
-`src/` folder contains C++ source code.<br>
-`py/` folder contains Python code.
-
+Solutions written in Python.
 
 
 # Completed
