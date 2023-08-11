@@ -12,4 +12,5 @@ Solutions written in Python.
 - [Repetitions](https://cses.fi/problemset/task/1069)
 - [Increasing Array](https://cses.fi/problemset/task/1094)
 - [Permutations](https://cses.fi/problemset/task/1070/)
+- [Number Spiral](https://cses.fi/problemset/task/1071/)
 </details>
