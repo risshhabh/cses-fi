@@ -12,3 +12,7 @@ for k in range(1, n + 1):
         + 4 * (K - 5)            # L2 corners
         + 4 * (k - 4) * (K - 7)  # L2 sides
     ) // 2)                      # overcounting XY = YX
+
+"""
+This simplifies as (k - 1)(k + 4)(k^2 - 3k + 4) / 2
+"""
