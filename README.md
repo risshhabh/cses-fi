@@ -17,4 +17,5 @@ Solutions written in Python.
 - [Two Sets](https://cses.fi/problemset/task/1092/)
 - [Bit String](https://cses.fi/problemset/task/1617)
 - [Trailing Zeros](https://cses.fi/problemset/task/1618/)
+- [Coin Piles](https://cses.fi/problemset/task/1754/)
 </details>
