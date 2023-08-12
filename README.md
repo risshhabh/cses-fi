@@ -16,4 +16,5 @@ Solutions written in Python.
 - [Two Knights](https://cses.fi/problemset/task/1072/)
 - [Two Sets](https://cses.fi/problemset/task/1092/)
 - [Bit String](https://cses.fi/problemset/task/1617)
+- [Trailing Zeros](https://cses.fi/problemset/task/1618/)
 </details>
