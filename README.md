@@ -18,4 +18,5 @@ Solutions written in Python.
 - [Bit String](https://cses.fi/problemset/task/1617)
 - [Trailing Zeros](https://cses.fi/problemset/task/1618/)
 - [Coin Piles](https://cses.fi/problemset/task/1754/)
+- [Palindrome Reorder](https://cses.fi/problemset/task/1755)
 </details>
