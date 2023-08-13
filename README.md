@@ -19,4 +19,5 @@ Solutions written in Python.
 - [Trailing Zeros](https://cses.fi/problemset/task/1618/)
 - [Coin Piles](https://cses.fi/problemset/task/1754/)
 - [Palindrome Reorder](https://cses.fi/problemset/task/1755)
+- [Gray Code](https://cses.fi/problemset/task/2205/)
 </details>
