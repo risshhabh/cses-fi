@@ -28,7 +28,6 @@ Solutions written in Python.
 - [ ] [Grid Paths](https://cses.fi/problemset/task/1625)
 </details>
 
-
 <details>
     <summary>Sorting and Searching<summary>
 
