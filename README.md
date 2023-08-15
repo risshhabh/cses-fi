@@ -22,4 +22,14 @@ Solutions written in Python.
 - [x] [Gray Code](https://cses.fi/problemset/task/2205/)
 - [ ] [Tower of Hanoi](https://cses.fi/problemset/task/2165)
 - [x] [Creating Strings](https://cses.fi/problemset/task/1622)
+- [ ] [Apple Division](https://cses.fi/problemset/task/1623)
+- [ ] [Chessboard and Queens](https://cses.fi/problemset/task/1624)
+- [ ] [Digit Queries](https://cses.fi/problemset/task/2431)
+- [ ] [Grid Paths](https://cses.fi/problemset/task/1625)
+</details>
+
+
+<details>
+    <summary>Sorting and Searching<summary>
+
 </details>
