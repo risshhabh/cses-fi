@@ -32,5 +32,5 @@ Solutions written in Python.
 <details>
     <summary>Sorting and Searching<summary>
 
-- [ ] filler text
+- [x] [Distinct Numbers](https://cses.fi/problemset/task/1621)
 </details>
